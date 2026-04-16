@@ -2,7 +2,7 @@
 
 A starter repo for building and validating a personal portfolio webpage.
 
-![Pipeline Status](your-badge-url-here)
+[![Portfolio Pipeline](https://github.com/doebrained/cs1530-hw3/actions/workflows/pipeline.yml/badge.svg)](https://github.com/doebrained/cs1530-hw3/actions/workflows/pipeline.yml)
 
 ## Structure
 
